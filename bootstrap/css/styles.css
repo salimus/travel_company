@@ -1,0 +1,47 @@
+
+html {
+	font-size: 100%;
+}
+
+body {
+	/*background: #CAF0F7;*/
+	background: linear-gradient(to right, #CAF0F7, #F4F7FF);
+}
+
+.container {
+	margin: 0;
+}
+
+#logo {
+	padding: 30px;
+}
+
+ul {
+	padding-top: 20px;
+}
+
+.nav {
+	margin-right: 20px; 
+}
+
+.nav-tabs .nav-link {
+	border: none;
+}
+
+.nav-tabs .nav-link.active {
+	color: #035c8a;
+   background-color: #34e4cc;
+   border: none;
+}
+
+.nav-link {
+	border: none;
+	color: #035c8a;
+   text-decoration: none;
+   background-color: transparent;
+}
+
+.nav-item {
+	margin-left: 2px;
+	margin-right: 2px: 
+}
