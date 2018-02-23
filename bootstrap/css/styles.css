@@ -100,13 +100,14 @@ ul {
 
 .text {
 	color: white;
-	font-size: 15px;
+	font-size: 1.3em;
 	position: absolute;
-	top: 40%;
+	top: 30%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
 	text-align: left;
+	font-family: 'Text Me One', sans-serif;
 }
 
 
